@@ -1,0 +1,19 @@
+{
+  "author": "MailyMe <contact@maily.me>",
+  "name": "mailyme-node",
+  "description": "Official API client for Mailyme",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nops/mailyme-node",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nops/mailyme-node.git"
+  },
+  "main": "index",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
